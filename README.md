@@ -58,25 +58,27 @@ Password Security Toolkit is a comprehensive web application designed to help yo
 
 ## 🌐 Deployment
 
-You can try the application live at [this link](https://password-generator.onrender.com).
+You can try the application live at [this link](https://password-security-toolkit.onrender.com).
 
 ## 🚀 Installation
 
 1. Clone the repository:
-   \`\`\`bash
+
+   ```bash
    git clone https://github.com/EduardoProfe666/password-generator.git
    cd password-generator
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+
+   ```bash
    pnpm install
-   \`\`\`
+   ```
 
 3. Start the development server:
-   \`\`\`bash
+   ```bash
    pnpm dev
-   \`\`\`
+   ```
 
 ## 💻 Usage
 
